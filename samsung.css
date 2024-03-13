@@ -1,0 +1,156 @@
+
+.strg {
+
+    background-color: rgb(188, 199, 129);
+    color: rgb(0, 0, 0);
+    border-color:rgb(4, 61, 42)
+    border width:2px;
+    border-style: solid;
+    height: 70px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;}
+    
+    .strg:hover{opacity: 0.8;}
+    
+    .strg:active{background-color: rgb(6, 54, 54);}
+
+.CLR1 {
+
+        background-color: rgb(117, 172, 140);
+        color: rgb(0, 0, 0);
+        border-color:rgb(4, 61, 42)
+        border width:2px;
+        border-style: solid;
+        height: 45px;
+        width: 120px;
+        border-radius: 5px;
+        font-size: 12px;
+        cursor: pointer;}
+        
+        .CLR1:hover{
+            opacity: 0.8;}
+        
+        .CLR1:active{background-color: rgb(6, 54, 54);}
+
+.CLR2 {
+
+            background-color: rgb(72, 119, 146);
+            color: rgb(0, 0, 0);
+            border-color:rgb(4, 61, 42)
+            border width:2px;
+            border-style: solid;
+            height: 45px;
+            width: 120px;
+            border-radius: 5px;
+            font-size: 12px;
+            cursor: pointer;}
+            
+            .CLR2:hover{
+                opacity: 0.8;}
+            
+            .CLR2:active{background-color: rgb(6, 54, 54);}
+.CLR3 {
+
+                background-color: rgb(148, 106, 67);
+                color: rgb(0, 0, 0);
+                border-color:rgb(4, 61, 42)
+                border width:2px;
+                border-style: solid;
+                height: 45px;
+                width: 120px;
+                border-radius: 5px;
+                font-size: 12px;
+                cursor: pointer;}
+                
+                .CLR3:hover{
+                    opacity: 0.8;}
+                
+                .CLR3:active{background-color: rgb(6, 54, 54);}
+.CLR4 {
+
+                    background-color: rgb(46, 44, 75);
+                    color: rgb(0, 0, 0);
+                    border-color:rgb(4, 61, 42)
+                    border width:2px;
+                    border-style: solid;
+                    height: 45px;
+                    width: 120px;
+                    border-radius: 5px;
+                    font-size: 12px;
+                    cursor: pointer;}
+                    
+                    .CLR4:hover{
+                        opacity: 0.8;}
+                    
+                    .CLR4:active{background-color: rgb(6, 54, 54);}
+.CLR5 {
+
+                        background-color: rgb(221, 217, 157);
+                        color: rgb(0, 0, 0);
+                        border-color:rgb(4, 61, 42)
+                        border width:2px;
+                        border-style: solid;
+                        height: 45px;
+                        width: 120px;
+                        border-radius: 5px;
+                        font-size: 12px;
+                        cursor: pointer;}
+                        
+                        .CLR5:hover{
+                            opacity: 0.8;}
+                        
+                        .CLR5:active{background-color: rgb(6, 54, 54);}
+.CLR6 {
+
+                            background-color: rgb(54, 48, 48);
+                            color: rgb(0, 0, 0);
+                            border-color:rgb(4, 61, 42)
+                            border width:2px;
+                            border-style: solid;
+                            height: 45px;
+                            width: 120px;
+                            border-radius: 5px;
+                            font-size: 12px;
+                            cursor: pointer;}
+                            
+                            .CLR6:hover{
+                                opacity: 0.8;}
+                            
+                            .CLR6:active{background-color: rgb(6, 54, 54);}
+.CLR7 {
+
+                                background-color: rgb(155, 139, 139);
+                                color: rgb(0, 0, 0);
+                                border-color:rgb(4, 61, 42)
+                                border width:2px;
+                                border-style: solid;
+                                height: 45px;
+                                width: 120px;
+                                border-radius: 5px;
+                                font-size: 12px;
+                                cursor: pointer;}
+                                
+                                .CLR7:hover{
+                                    opacity: 0.8;}
+                                
+                                .CLR7:active{background-color: rgb(6, 54, 54);}
+.bck{
+                                    background-color: rgb(43, 172, 204);color: rgb(0, 0, 0);
+                                    border-color:rgb(0, 0, 0)
+                                    border width:5px;
+                                    border-style: solid;
+                                    height: 45px;
+                                    width: 170px;
+                                    border-radius: 5px;
+                                    font-size: 17px;
+                                    cursor: pointer;}
+                                    
+                                    .CLR7:hover{
+                                        opacity: 0.8;}
+                                    
+                                    .CLR7:active{background-color: rgb(6, 54, 54);}}
+    
+
+    
